@@ -6,9 +6,13 @@ package com.mycompany.estructuradedatos2026;
 
 /**
  *
- * @author alumnog
+ * @author miguel dueñes
  */
 public class EstructuraDeDatos2026 {
+    String nombre ="Miguel Dueñes";
+    String id = "00000281635";
+    String carrera = "ISW";
+    int edad = 18;
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
